@@ -1,8 +1,6 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const axios = require("axios");
-const cheerio = require("cheerio");
 const connection = mongoose.connection;
 const PORT = process.env.PORT || 8000;
 const MONGO_URI =

@@ -1,6 +1,6 @@
-$(document).ready(function() {
-  console.log("please work");
-});
+// $(document).ready(function() {
+//   console.log("please work");
+// });
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -12,7 +12,7 @@ axios.get("https://www.oregonlive.com/portland/").then(urlResponse => {
     const link = $(element)
       .find("a.river-item__headline-link")
       .attr("href")
-      .split(", ");
+      .split(",");
 
     console.log(link);
   });
