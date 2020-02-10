@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: teal;
+    border-radius: 3px;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.btn1 {
+    margin-left: 43%;
+}
