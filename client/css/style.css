@@ -11,3 +11,7 @@ p {
 .btn1 {
     margin-left: 43%;
 }
+
+#todoContainer {
+    text-align: center;
+}

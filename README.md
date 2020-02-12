@@ -1,0 +1,1 @@
+Hello. Welcome to my unfinished Scraping News App. I chose to scrape the Oregonian news website. I got the news headlines to append on terminal but could not get anything to append to the user side. In this app I still need to get the headlines, summary, and ulr to append to the homepage, be able to save certain headlines, and edit or delete those headlines one by one.
